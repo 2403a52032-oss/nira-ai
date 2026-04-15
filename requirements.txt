@@ -1,8 +1,5 @@
 streamlit
-python-dotenv
+pandas
 plotly
-speechrecognition
-gtts
-transformers
+groq
 cryptography
-pyaudio
