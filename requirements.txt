@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+plotly
+speechrecognition
+gtts
+transformers
+cryptography
+pyaudio
